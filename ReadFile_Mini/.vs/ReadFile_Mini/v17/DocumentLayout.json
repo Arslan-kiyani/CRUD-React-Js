@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\excelfileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\excelfileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\sdvacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\sdvacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\helper\\sdvahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\helper\\sdvahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\sdva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\sdva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\helper\\journalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\helper\\journalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\filereadlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\filereadlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\personalinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\personalinforcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\services\\datatransferjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\services\\datatransferjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\interface\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\filereadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\filereadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\controllers\\recurringjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\controllers\\recurringjobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\context\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\context\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\context\\seniordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\context\\seniordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\inventorydestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\inventorydestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\helper\\inventoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\helper\\inventoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\destinationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\destinationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|c:\\users\\laptop wala\\desktop\\kiyani\\readfile_mini\\readfile_mini\\models\\sourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F53B25-C0E7-4003-9FEB-788678C46137}|ReadFile_Mini\\ReadFile_Mini.csproj|solutionrelative:readfile_mini\\models\\sourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sdva.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\sdva.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\sdva.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\sdva.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\sdva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:59:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sdvaHelper.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\sdvaHelper.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Helper\\sdvaHelper.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\sdvaHelper.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Helper\\sdvaHelper.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:59:34.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:57:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:57:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalInforController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\PersonalInforController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\PersonalInforController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\PersonalInforController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\PersonalInforController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:26:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sdvaController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\sdvaController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\sdvaController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\sdvaController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\sdvaController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:57:59.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelFileUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\ExcelFileUploadModel.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\ExcelFileUploadModel.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\ExcelFileUploadModel.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\ExcelFileUploadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:12:34.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\appsettings.json",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\appsettings.json",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\appsettings.json",
+              "RelativeToolTip": "ReadFile_Mini\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T08:50:52.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\ApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\ApiKeyAttribute.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\ApiKeyAttribute.cs",
+              "RelativeToolTip": "ReadFile_Mini\\ApiKeyAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:17:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JournalHelper.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\JournalHelper.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Helper\\JournalHelper.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\JournalHelper.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Helper\\JournalHelper.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwHkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:32:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Program.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Program.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Program.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Program.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAwwL0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:05:21.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileReadListController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\FileReadListController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\FileReadListController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\FileReadListController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\FileReadListController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:12:45.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "ReadFile_Mini\\ApiKeyMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:23:31.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataTransferJob.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Services\\DataTransferJob.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Services\\DataTransferJob.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Services\\DataTransferJob.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Services\\DataTransferJob.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwDQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:49:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Interface\\IJwtService.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Interface\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Interface\\IJwtService.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Interface\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:12:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Services\\JwtService.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Services\\JwtService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:10:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileReadController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\FileReadController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\FileReadController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\FileReadController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\FileReadController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:12:38.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:02:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PostgreSqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Context\\PostgreSqlDbContext.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Context\\PostgreSqlDbContext.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Context\\PostgreSqlDbContext.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Context\\PostgreSqlDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:54:18.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeniorDb.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Context\\SeniorDb.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Context\\SeniorDb.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Context\\SeniorDb.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Context\\SeniorDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:35:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecurringJobController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\RecurringJobController.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Controllers\\RecurringJobController.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Controllers\\RecurringJobController.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Controllers\\RecurringJobController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:49:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\Repository\\TripRepository.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\Repository\\TripRepository.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\Repository\\TripRepository.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\Repository\\TripRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:49:09.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventoryDestination.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\InventoryDestination.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\InventoryDestination.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\InventoryDestination.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\InventoryDestination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:08:29.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventoryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\InventoryHelper.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Helper\\InventoryHelper.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Helper\\InventoryHelper.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Helper\\InventoryHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:06:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DestinationData.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\DestinationData.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\DestinationData.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\DestinationData.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\DestinationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:28:22.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SourceData.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\SourceData.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\SourceData.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\SourceData.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\SourceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:28:30.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "ReadFile_Mini\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\laptop wala\\Desktop\\KIYANI\\ReadFile_Mini\\ReadFile_Mini\\Models\\Inventory.cs",
+              "RelativeToolTip": "ReadFile_Mini\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:28:45.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

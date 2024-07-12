@@ -1,0 +1,458 @@
+[
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ReadFile_Mini.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailRequest",
+        "Type": "ReadFile_Mini.Requestes.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.FileReadController",
+    "Method": "Upload",
+    "RelativePath": "api/FileRead/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.FileReadListController",
+    "Method": "Upload",
+    "RelativePath": "api/FileReadList/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.JournalFileController",
+    "Method": "ExcelFileUpload",
+    "RelativePath": "api/JournalFile/ExcelFileUpload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.JournalFileController",
+    "Method": "Upload",
+    "RelativePath": "api/JournalFile/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "DeletePersonalAsync",
+    "RelativePath": "api/PersonalInfor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "UpdatePersonalAsync",
+    "RelativePath": "api/PersonalInfor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "personalRequest",
+        "Type": "ReadFile_Mini.Requestes.personalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "AddPersonalInfo",
+    "RelativePath": "api/PersonalInfor/AddPersonalInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personalRequest",
+        "Type": "ReadFile_Mini.Requestes.personalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "GetAllLanguages",
+    "RelativePath": "api/PersonalInfor/GetAllLanguages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReadFile_Mini.Models.Language, ReadFile_Mini, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "GetAllPersonalInfo",
+    "RelativePath": "api/PersonalInfor/GetAllPersonalInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReadFile_Mini.Models.PersonalInfo, ReadFile_Mini, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "GetAllRace",
+    "RelativePath": "api/PersonalInfor/GetAllRace",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReadFile_Mini.Models.Race, ReadFile_Mini, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.PersonalInforController",
+    "Method": "GetPersonalInfoById",
+    "RelativePath": "api/PersonalInfor/GetPersonalInfoById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ReadFile_Mini.Models.PersonalInfo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.sdvaController",
+    "Method": "GetSdvaFromDatabase",
+    "RelativePath": "api/sdva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nameFilter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.sdvaController",
+    "Method": "Uploadsdva",
+    "RelativePath": "api/sdva/Uploadsdva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.TripController",
+    "Method": "AddTrip",
+    "RelativePath": "api/Trip",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tripRequest",
+        "Type": "ReadFile_Mini.Requestes.TripRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.TripController",
+    "Method": "GetAllTrips",
+    "RelativePath": "api/Trip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.TripController",
+    "Method": "GetTripById",
+    "RelativePath": "api/Trip/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.TripController",
+    "Method": "UpdateTrip",
+    "RelativePath": "api/Trip/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tripRequest",
+        "Type": "ReadFile_Mini.Requestes.TripRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTableController",
+    "Method": "GetUserById",
+    "RelativePath": "api/UserTable/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTableController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/UserTable/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTableController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/UserTable/GetAllUsersAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTableController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/UserTable/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userTableRequest",
+        "Type": "ReadFile_Mini.Requestes.UserTableRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTripController",
+    "Method": "DeleteUserTrip",
+    "RelativePath": "api/UserTrip/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTripController",
+    "Method": "UpdateUserTrip",
+    "RelativePath": "api/UserTrip/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userTripRequest",
+        "Type": "ReadFile_Mini.Requestes.UserTripRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadFile_Mini.Controllers.UserTripController",
+    "Method": "AddUserTrip",
+    "RelativePath": "api/UserTrip/AddUserTrip",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userTripRequest",
+        "Type": "ReadFile_Mini.Requestes.UserTripRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

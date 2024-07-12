@@ -1,0 +1,6 @@
+@ReadFile_Mini_HostAddress = http://localhost:5268
+
+GET {{ReadFile_Mini_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

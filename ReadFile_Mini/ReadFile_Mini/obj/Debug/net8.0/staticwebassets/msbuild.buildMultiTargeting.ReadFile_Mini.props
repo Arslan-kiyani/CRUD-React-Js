@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReadFile_Mini.props" />
+</Project>
